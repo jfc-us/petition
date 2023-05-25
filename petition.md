@@ -89,8 +89,6 @@
 
 [26]: <a id="twenty-six" href="https://weverse.io/bts/artist/4-116454700?hl=en">https://weverse.io/bts/artist/4-116454700?hl=en</a>
 
-[26]: <a id="twenty-six" href="https://weverse.io/bts/artist/4-116454700?hl=en">https://weverse.io/bts/artist/4-116454700?hl=en</a>
-
 [27]: <a id="twenty-seven" href="https://www.youtube.com/watch?v=YXr6-vXzSrI">https://www.youtube.com/watch?v=YXr6-vXzSrI</a>
 
 [28]: <a id="twenty-eight" href="#">needs citation</a>
